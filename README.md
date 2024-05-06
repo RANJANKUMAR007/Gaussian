@@ -6,12 +6,15 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
 ## Algorithm
-1. create numpy library to create guasian elimination program 
-2. add for loop for 3*3 row and column matrix with an range
-3. use if condition to print the values 
-4. print the result to shoe output
+# step 1
+create numpy library to create guasian elimination program 
+# step 2
+ add for loop for 3*3 row and column matrix with an range
+# step 3
+use if condition to print the values 
+# step 4
+print the result to shoe output
 
 ## Program:
 ```
@@ -47,12 +50,9 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end = ' ')
 */
-
-
+```
 ## Output:
-
-c:\Users\admin\Pictures\Screenshots\Screenshot 2024-05-01 111057.png
-
+![alt text](<Screenshot 2024-05-01 111057-1.png>)
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
 
